@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-  printf("Hello World!");
-  printf("!dlroW olleH");
+  printf("Open Source SW Project\n");
+  printf("First GitHub Training\n");
   return 0;
 }
